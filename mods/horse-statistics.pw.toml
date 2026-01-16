@@ -1,0 +1,13 @@
+name = "Horse Statistics (fabric/neoforge/forge)"
+filename = "horsestatsmod-fabric-3.4.0-MC1.21.11+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d34f361b58a2b69cddefd96ca48032b91cdb7769"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7393825
+project-id = 409126
