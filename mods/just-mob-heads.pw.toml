@@ -1,0 +1,13 @@
+name = "Just Mob Heads"
+filename = "justmobheads-1.21.11-8.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88af6061748f7ac7406f0838ac91aab46659608f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7321091
+project-id = 293320

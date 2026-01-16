@@ -1,0 +1,13 @@
+name = "Simple Harvesting"
+filename = "Simple Harvesting 1.21.11 2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65d3b7a69d2c5b5e7e0f1636670390d0f3d4e02c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7400618
+project-id = 1344862
