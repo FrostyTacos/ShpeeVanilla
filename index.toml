@@ -307,11 +307,6 @@ hash = "a5d332d97f29c1f3b2ca274d9076169e11e71fa6b42f65536004a1d830a37727"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "01a476eda8e70ae3609ba2ee5bcaa0530e6f9f7cdb6783b263c0a1b4b88de070"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d9bb477a944c92ae2f95d812f5344bdae01bf2f81b305bddabc090f72f3f63c6"
 metafile = true
@@ -329,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "cd9a77c839078e91469f7f02ab902f5eee2691a0de041cf1f1fe22a24b0741f8"
 metafile = true
 
 [[files]]
@@ -439,11 +429,6 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "0a2e7468423d5636822b43707043e48f57e749f9382def85060e6f27f74aa8a5"
-metafile = true
-
-[[files]]
-file = "mods/prickle.pw.toml"
-hash = "b66c4319ea2b1856d3e7d19bf18d8a8445040a3125dd75c193834d651d6f7335"
 metafile = true
 
 [[files]]
