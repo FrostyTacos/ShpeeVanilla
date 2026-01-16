@@ -312,11 +312,6 @@ hash = "01a476eda8e70ae3609ba2ee5bcaa0530e6f9f7cdb6783b263c0a1b4b88de070"
 metafile = true
 
 [[files]]
-file = "mods/betterstats.pw.toml"
-hash = "bc62c653a8b1a5eb0af7ce374430e9000bd999f4d5afb82e875d21fc13c11abd"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d9bb477a944c92ae2f95d812f5344bdae01bf2f81b305bddabc090f72f3f63c6"
 metafile = true
@@ -472,28 +467,13 @@ hash = "11db2f1acc702cfc92d43efd8800b4b9db54e3c059ec1d35754618adacffc334"
 metafile = true
 
 [[files]]
-file = "mods/simple-harvesting.pw.toml"
-hash = "01ec2c52a3134a54d034afc8172c33a34421636a72868f305b3b9aa305d5e198"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "756081c3965727c88a843949ad5b9758af3e677d31ad2dcbd53d4bdea61720de"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "e8338121752473aee4681eede26c3eac75bf6ff5bfd1a0d43a1848b491a4c7a6"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
-metafile = true
-
-[[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "f8e1d7d95c5c2b723fa2c4e16deedc0bbeb4326e322fac2aa616e1619ffa07d3"
 metafile = true
 
 [[files]]
