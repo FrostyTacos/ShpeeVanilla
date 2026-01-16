@@ -1,6 +1,6 @@
 name = "Enchantment Descriptions"
 filename = "enchdesc-fabric-1.21.10-21.10.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
